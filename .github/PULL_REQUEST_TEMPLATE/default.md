@@ -1,1 +1,1 @@
-Test PR Template
+Test PR Template (PULL_REQUEST_TEMPLATE\default.md)
