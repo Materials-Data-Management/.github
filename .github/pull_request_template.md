@@ -58,4 +58,5 @@ TODO include link here
 - [ ] **Test Coverage**: Ensure that test coverage is maintained or improved
 - [ ] **Deployment**: If applicable, ensure that deployment scripts/configs are updated and tested
 - [ ] **Merge Conflicts**: Ensure there are no merge conflicts, it is the job of the requester to resolve conflicts
-- [ ] **Post-Merge**: Set a reminder for any necessary post-merge actions (e.g., deployment, monitoring, newly raised issues)
+- [ ] **Post-Merge**: Set a reminder for any necessary post-merge actions (e.g., deployment, monitoring, newly raised issues
+- [ ] **Base Branch**: The pull request is targeting the correct base branch.
