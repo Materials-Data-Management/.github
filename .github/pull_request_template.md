@@ -27,7 +27,7 @@ It is the reviewer's job to make sure this pull request in its entirety is produ
 - [ ] **Comments/Docstrings**: Ensure code is commented and all new functions and classes have appropriate docstrings
 - [ ] **Logging**: There is appropriate logging coverage
 - [ ] **Exceptions**: Exceptions are raised, caught, and logged appropriately
-- [ ] **Test**: Does anyone actually read this? Message Clay for a prize.
+- [ ] **Test**: Does anyone actually read this? Message Clay!
 - [ ] **Dependencies**: Updated `requirements.txt`, etc
 - [ ] **Versioning**: The project version is increased as needed
 
