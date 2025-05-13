@@ -1,0 +1,20 @@
+name: Backlog Item
+description: Create a new backlog item
+body:
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: What are the criteria that need to be met for this item to be considered complete?
+      value: |
+        - [ ]
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional notes or context for this item
+    validations:
+      required: false
