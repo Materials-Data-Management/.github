@@ -21,13 +21,13 @@ It is the reviewer's job to make sure this pull request in its entirety is produ
 
 ## Python Development
 
-- [ ] **Code Formatting**: Ensure code is formatted correctly (`black`)
+- [ ] **Code Formatting**: Ensure code is formatted correctly (`ruff`)
 - [ ] **Type Hints**: Ensure code has appropriate type hints with no errors (`mypy`)
 - [ ] **Naming**: Variables, functions, and classes are accurately named
 - [ ] **Comments/Docstrings**: Ensure code is commented and all new functions and classes have appropriate docstrings
 - [ ] **Logging**: There is appropriate logging coverage
 - [ ] **Exceptions**: Exceptions are raised, caught, and logged appropriately
-- [ ] **Dependencies**: Updated `requirements.txt`, etc
+- [ ] **Dependencies**: Updated `pyproject.toml`, etc
 - [ ] **Versioning**: The project version is increased as needed
 
 ## Web Development
